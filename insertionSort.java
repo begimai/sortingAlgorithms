@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class p01 {
+public class insertionSort {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
