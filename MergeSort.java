@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class mergeSort {
+public class MergeSort {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
